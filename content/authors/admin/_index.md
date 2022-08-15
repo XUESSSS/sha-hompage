@@ -60,27 +60,33 @@ social:
 #email: ""
 ---
 
-Sha Xue 
+                                                                          Sha Xue 
 
 Born: 02/1997 (Shaanxi Province, China) 
+Phone: (+0912) 15891691685                                                                                        Email: 2118202034@tju.edu.cn 
 
-Phone: (+0912) 15891691685 
+Education
 
-Email: 2118202034@tju.edu.cn 
-
-Education 
 09/2018-03/2021, M.E. Biomedical Engineering, Tianjin University 
 09/2014-07/2018, B.E. Chemistry, Baoji University of Arts and Sciences 
 
-Work Experience 11/2021-now, Research Assitant, Sensor center, Shenzhen Institute of Advanced Technology Chinese Academy of Science 
+Work Experience 
 
-Research interests 
+11/2021-07/2022, Research Assitant, Sensor center, Shenzhen Institute of Advanced Technology Chinese Academy of Science 
+
+Research interests
+
 electrochemical biosensor, POCT and preparation and funtionalization of novel nanomaterials.
 
 Experimental Skills 
-Fabrication and SERS evaluation of mesoporous carbon-supported composites; 
-Synthesis and Modification of Au or Ag, SiO2, Fe3O4 nanoparticles; 
-Culture of pathogenic bacteria (E.coil, staphylococcus albus, et al); 
-Analyzing signals of organic pollutants or bacteria in water by means of Raman technique; 
-I am skilled in operating some experimental instruments, such as Muffle Furnace, Raman Spectrometer(B&W), Raman Microscope(HORIBA), Scanning Electron Microscope (SEM), X-ray Diffraction (XRD); Thermogravimetric Analysis (TGA), etc.
+
+-Fabrication and SERS evaluation of mesoporous carbon-supported composites; 
+
+-Synthesis and Modification of Au or Ag, SiO2, Fe3O4 nanoparticles; 
+
+-Culture of pathogenic bacteria (E.coil, staphylococcus albus, et al); 
+
+-Analyzing signals of organic pollutants or bacteria in water by means of Raman technique; 
+
+-I am skilled in operating some experimental instruments, such as Muffle Furnace, Raman Spectrometer(B&W), Raman Microscope(HORIBA), Scanning Electron Microscope (SEM), X-ray Diffraction (XRD); Thermogravimetric Analysis (TGA), etc.
 
