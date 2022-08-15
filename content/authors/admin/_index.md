@@ -59,6 +59,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
+From:China
 Phone: (+0912) 15891691685                                                                                        
 Email: 2118202034@tju.edu.cn 
 
@@ -66,16 +67,15 @@ Email: 2118202034@tju.edu.cn
 
 
 # Interest:
-electrochemical biosensor                                                                                       
-disease detection  
-novel nanomaterials
+-electrochemical biosensor                                                                                       
+-disease detection  
+-novel nanomaterials
 
 
 
 
 # Education:
 2022.09-           PhD in Analytical Chemistry,    Universitat Autònoma de Barcelona                                                                           
-
 2018.09-2021.03    MEng in Biomedical Engineering,      Tianjin University  
 
 2014.09-2018.07    BSc in Chemistry,            Baoji University of Arts and Sciences 
