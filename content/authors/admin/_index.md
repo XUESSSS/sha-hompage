@@ -41,7 +41,7 @@ bio: My research interests include electrochemical biosensor, POCT and preparati
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:sxx1103356698@163.com".
+    link: mailto:sxx1103356698@163.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
@@ -60,4 +60,24 @@ social:
 #email: ""
 ---
 
-Xue sha is a PHD student at the UAB chemistry Lab. Her research interests include  electrochemical biosensor, POCT and preparation and funtionalization of novel nanomaterials. She ............................
+Sha Xue 
+Born: 02/1997 (Shaanxi Province, China) 
+Phone: (+0912) 15891691685 
+Email: 2118202034@tju.edu.cn 
+
+Education 
+09/2018-03/2021, M.E. Biomedical Engineering, Tianjin University 
+09/2014-07/2018, B.E. Chemistry, Baoji University of Arts and Sciences 
+
+Work Experience 11/2021-now, Research Assitant, Sensor center, Shenzhen Institute of Advanced Technology Chinese Academy of Science 
+
+Research interests 
+electrochemical biosensor, POCT and preparation and funtionalization of novel nanomaterials.
+
+Experimental Skills 
+Fabrication and SERS evaluation of mesoporous carbon-supported composites; 
+Synthesis and Modification of Au or Ag, SiO2, Fe3O4 nanoparticles; 
+Culture of pathogenic bacteria (E.coil, staphylococcus albus, et al); 
+Analyzing signals of organic pollutants or bacteria in water by means of Raman technique; 
+I am skilled in operating some experimental instruments, such as Muffle Furnace, Raman Spectrometer(B&W), Raman Microscope(HORIBA), Scanning Electron Microscope (SEM), X-ray Diffraction (XRD); Thermogravimetric Analysis (TGA), etc.
+
