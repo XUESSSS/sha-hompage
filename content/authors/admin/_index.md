@@ -59,7 +59,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-# Sha Xue
 Phone: (+0912) 15891691685                                                                                        
 Email: 2118202034@tju.edu.cn 
 
