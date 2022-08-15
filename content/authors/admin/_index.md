@@ -61,8 +61,11 @@ social:
 ---
 
 Sha Xue 
+
 Born: 02/1997 (Shaanxi Province, China) 
+
 Phone: (+0912) 15891691685 
+
 Email: 2118202034@tju.edu.cn 
 
 Education 
