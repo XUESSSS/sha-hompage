@@ -74,11 +74,11 @@ novel nanomaterials
 
 
 # Education:
-2022.09-: PhD in Analytical Chemistry, Universitat Autònoma de Barcelona                                                                                       2018.09-2021.03: MEng in Biomedical Engineering, Tianjin University  
-2014.09-2018.07: BSc in Chemistry, Baoji University of Arts and Sciences 
+2022.09-         PhD in Analytical Chemistry,    Universitat Autònoma de Barcelona                                                                           2018.09-2021.03  MEng in Biomedical Engineering,      Tianjin University  
+2014.09-2018.07  BSc in Chemistry,            Baoji University of Arts and Sciences 
 
 
 
 
 # Work experience:
-2021.11-2022.07: Research assistant, Shenzhen Institute of Advanced Technology Chinese Academy of Science
+2021.11-2022.07  Research assistant,  Shenzhen Institute of Advanced Technology Chinese Academy of Science
