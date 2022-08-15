@@ -61,16 +61,27 @@ social:
 ---
 
 Sha Xue 
- Phone: (+0912) 15891691685                                                                                        Email: 2118202034@tju.edu.cn 
+ 
+Phone: (+0912) 15891691685                                                                                        Email: 2118202034@tju.edu.cn 
 
-Education
- 09/2018-03/2021,  M.E.  Biomedical Engineering, Tianjin University 
- 09/2014-07/2018,  B.E.  Chemistry, Baoji University of Arts and Sciences 
+# Short bio (displayed in CV)
+bio: My research interests include electrochemical biosensor, POCT and preparation and funtionalization of novel nanomaterials.
 
-Work Experience 
- 11/2021-07/2022,  Research Assitant,  Sensor center,  Shenzhen Institute of Advanced Technology Chinese Academy of Science 
+#interests:
+#- electrochemical biosensor
+#- disease detection
+#- novel nanomaterials
 
-Research interests
- electrochemical biosensor, POCT and preparation and funtionalization of novel nanomaterials.
+#education:
+#  courses:
+#  - course: PhD in Analytical Chemistry
+#    institution: Universitat Autònoma de Barcelona
+#    year: 2022.09-
+#  - course: MEng in Biomedical Engineering
+#    institution: Tianjin University
+#    year: 2018.09-2021.03
+#  - course: BSc in Chemistry
+#    institution: Baoji University of Arts and Sciences
+#    year: 2014.09-2018.07
 
 
